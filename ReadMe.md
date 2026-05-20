@@ -9,6 +9,12 @@ This project explores large-scale hotel review analysis using **Natural Language
 The project utilizes a dataset of over **515,000 TripAdvisor hotel reviews** and applies an end-to-end NLP pipeline including preprocessing, vectorization, exploratory analysis, sentiment prediction, and topic extraction.
 
 ---
+## System Architecture
+<p align="center">
+  <img width="807" height="909" alt="Screenshot 2026-05-20 135213" src="https://github.com/user-attachments/assets/a4dac62d-78e7-4649-8742-56fec0fc027c" />
+</p>
+
+---
 
 ## Features
 
@@ -21,6 +27,11 @@ The project utilizes a dataset of over **515,000 TripAdvisor hotel reviews** and
 - Topic modeling using LDA
 - Performance comparison of models
 - Data visualization and insights extraction
+
+<p align="center">
+  <h4> NLP pipeline </h4>
+  <img width="752" height="575" alt="Screenshot 2026-05-20 135259" src="https://github.com/user-attachments/assets/f3c2f4ba-f9c3-4551-a802-c42ca22a5668" />
+</p>
 
 ---
 
